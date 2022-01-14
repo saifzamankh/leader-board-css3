@@ -86,7 +86,7 @@ hr{
     display: flex;
 }
 .course{
-    background-color: #562EFF;
+    /* background-color: #562EFF; */
     border: 1px solid wheat;
     margin-left: 10px;
 }
